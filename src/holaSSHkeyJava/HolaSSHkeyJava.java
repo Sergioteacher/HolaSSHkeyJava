@@ -7,6 +7,8 @@ public class HolaSSHkeyJava {
 		System.out.println("Hola key SSH");
 		System.out.println("");
 		System.out.println("ligero cambio 1");
+		System.out.println("");
+		System.out.println("ligero cambio 2");
 	}
 
 }
